@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage/>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 18:06:35</sys_created_on>
+        <sys_id>1bed83f52f0130105ef3ffecf699b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RAP</sys_name>
+        <sys_package display_value="To Do" source="x_476470_to_do">1ccde5d02f0570105ef3ffecf699b697</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">1ccde5d02f0570105ef3ffecf699b697</sys_scope>
+        <sys_update_name>sp_portal_1bed83f52f0130105ef3ffecf699b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 18:06:35</sys_updated_on>
+        <theme/>
+        <title>RAP</title>
+        <ts_index_group/>
+        <url_suffix>rap</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=1bed83f52f0130105ef3ffecf699b66b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">1ccde5d02f0570105ef3ffecf699b697</application>
+        <file_path/>
+        <instance_id>eda83bc0db017f802f68c59705961985</instance_id>
+        <instance_name>dev82657</instance_name>
+        <name>sp_portal_1bed83f52f0130105ef3ffecf699b66b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><enable_ais>false</enable_ais><hide_portal_name>false</hide_portal_name><homepage/><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-30 18:06:35</sys_created_on><sys_id>1bed83f52f0130105ef3ffecf699b66b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RAP</sys_name><sys_package display_value="To Do" source="x_476470_to_do">1ccde5d02f0570105ef3ffecf699b697</sys_package><sys_policy/><sys_scope display_value="To Do">1ccde5d02f0570105ef3ffecf699b697</sys_scope><sys_update_name>sp_portal_1bed83f52f0130105ef3ffecf699b66b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-30 18:06:35</sys_updated_on><theme/><title>RAP</title><ts_index_group/><url_suffix>rap</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=1bed83f52f0130105ef3ffecf699b66b"/></record_update>]]></payload>
+        <payload_hash>97767271</payload_hash>
+        <record_name>RAP</record_name>
+        <reverted_from/>
+        <source>d0cde5d02f0570105ef3ffecf699b69a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 18:06:35</sys_created_on>
+        <sys_id>a09ecff52f0130105ef3ffecf699b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a5e19ee4f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 18:06:35</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>a89ecff593013010c59e86a8186ae898</update_guid>
+        <update_guid_history>a89ecff593013010c59e86a8186ae898:97767271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="RAP">1ddec3392f0130105ef3ffecf699b6a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-30 18:07:44</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>4a2c43a3f57845f6b0e7b1ff65af3104</sys_id>
+        <sys_metadata>1bed83f52f0130105ef3ffecf699b66b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RAP</sys_name>
+        <sys_package display_value="To Do" source="x_476470_to_do">1ccde5d02f0570105ef3ffecf699b697</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">1ccde5d02f0570105ef3ffecf699b697</sys_scope>
+        <sys_scope_delete display_value="">7bdc1fbf02cd4840934084a16ccb3ee4</sys_scope_delete>
+        <sys_update_name>sp_portal_1bed83f52f0130105ef3ffecf699b66b</sys_update_name>
+        <sys_update_version display_value="sp_portal_1bed83f52f0130105ef3ffecf699b66b">a09ecff52f0130105ef3ffecf699b699</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-30 18:07:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

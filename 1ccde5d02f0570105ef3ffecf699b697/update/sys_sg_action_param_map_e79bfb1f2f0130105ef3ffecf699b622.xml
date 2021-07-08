@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (To Do)">a79bfb1f2f0130105ef3ffecf699b604</button>
+        <item_parameter display_value="To Do progress">2b9bfb1f2f0130105ef3ffecf699b602</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-05 13:14:18</sys_created_on>
+        <sys_id>e79bfb1f2f0130105ef3ffecf699b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2b9bfb1f2f0130105ef3ffecf699b602</sys_name>
+        <sys_package display_value="To Do" source="x_476470_to_do">1ccde5d02f0570105ef3ffecf699b697</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">1ccde5d02f0570105ef3ffecf699b697</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_e79bfb1f2f0130105ef3ffecf699b622</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-05 13:14:18</sys_updated_on>
+        <ui_parameter display_value="Progress">239bfb1f2f0130105ef3ffecf699b607</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
